@@ -6,6 +6,8 @@
 ![Norminette](https://img.shields.io/badge/Norminette-passing-success)
 ![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
 
+**libft** is a custom implementation of essential C standard library functions, created as the foundational project of the 42 curriculum. This library serves as a personal toolkit that will be used throughout subsequent C projects.
+
 ---
 - [📔 Project overview](#-project-overview)
 - [📚 Concept guide](#-concept-guide)
@@ -16,8 +18,6 @@
 - [⚖️ License](#️-license)
   
 ## 📔 Project overview
-
-**libft** is a custom implementation of essential C standard library functions, created as the foundational project of the 42 curriculum. This library serves as a personal toolkit that will be used throughout subsequent C projects.
 
 - **Objective**: Recreate fundamental C library functions to understand their inner workings and build a solid foundation for future projects.
 - **Language**: C
