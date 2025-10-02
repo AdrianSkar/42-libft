@@ -162,23 +162,20 @@ Dynamic data structure manipulation:
 
 ## 📝 Notes
 
-### Design decisions
+### 42 Norm and style compliance
 - **Static library approach**: Functions are compiled into `libft.a` for easy integration
-- **Consistent naming**: All functions prefixed with `ft_` to avoid naming conflicts
 - **Modular organization**: Functions grouped by category in the Makefile
 - **Bonus separation**: Linked list functions in separate `_bonus.c` files
-
-### 42 Norm compliance
+- **Consistent naming**: All functions prefixed with `ft_` to avoid naming conflicts
+- **Variable naming**: Consistent and descriptive variable names
 - **Function length**: Maximum 25 lines per function
 - **Line length**: Maximum 80 characters per line
-- **Variable naming**: Consistent and descriptive variable names
 - **Indentation**: Proper code formatting using tabs
 
 ### Testing considerations
 - **Unit testing**: Each function tested individually with various inputs
 - **Edge cases**: Comprehensive testing of NULL pointers, empty strings, and boundary values
 - **Memory testing**: Valgrind integration to ensure no memory leaks
-- **Performance testing**: Benchmarking against standard library implementations
 
 ## 🛠️ Compilation and usage
 
